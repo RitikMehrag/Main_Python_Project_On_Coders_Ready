@@ -28,4 +28,4 @@ Hello Everyone, I am member of Team Code Heroes at Coders Ready. I will be uploa
 * In the present time, Sh. Jagdeep Dhankar is serving as a vice president of India.
 * Till now, we don't have any lady Vice President in India.
 ## PPT Presentation :
-https://github.com/RitikMehrag/Main_Python_Project_On_Coders_Ready/blob/main/Data%20Analysis%20of%20the%20Vice%20President%20of%20INDIA%20Data%20Set.pdf
+https://github.com/RitikMehrag/Main_Python_Project_On_Coders_Ready/blob/main/Main_Project_Presentation.pdf
