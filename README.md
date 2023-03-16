@@ -28,4 +28,5 @@ Hello Everyone, I am member of Team Code Heroes at Coders Ready. I will be uploa
 * In the present time, Sh. Jagdeep Dhankar is serving as a vice president of India.
 * Till now, we don't have any lady Vice President in India.
 ## PPT Presentation :
-[MINI PROJECT_1Multiple File Headling and Curve Fitting.pdf](https://github.com/RitikMehrag/Main_Python_Project_On_Coders_Ready/files/10990795/MINI.PROJECT_1Multiple.File.Headling.and.Curve.Fitting.pdf)
+
+[MINI PROJECT_1Multiple File Headling and Curve Fitting.pdf]
