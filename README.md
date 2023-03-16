@@ -29,3 +29,4 @@ Hello Everyone, I am member of Team Code Heroes at Coders Ready. I will be uploa
 * Till now, we don't have any lady Vice President in India.
 ## PPT Presentation :
 https://github.com/RitikMehrag/Main_Python_Project_On_Coders_Ready/blob/main/Main_Project_Presentation.pdf
+[MINI PROJECT_1Multiple File Headling and Curve Fitting.pdf](https://github.com/RitikMehrag/Main_Python_Project_On_Coders_Ready/files/10990795/MINI.PROJECT_1Multiple.File.Headling.and.Curve.Fitting.pdf)
